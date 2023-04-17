@@ -1,0 +1,526 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="//fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto:wght@400;500;700;900&display=swap" rel="preload" as="style" onload="this.rel='stylesheet'">
+<link rel="preload" href="https://cdn.static.zdbb.net/js/Dnl1wmWs8xCCpvWNCt9Egf.min.js" as="script">
+<script type="text/javascript" async="true" src="https://cdn.static.zdbb.net/js/Dnl1wmWs8xCCpvWNCt9Egf.min.js"></script>
+<script src="https://cdn.trustedcareaccess.com/libs/js/aim-cchl.js" async></script>
+<link rel="stylesheet" href="/assets/styles/styles.css">
+<link rel="shortcut icon" href="/assets/imgs/favicon.ico" type="image/x-icon" />
+<title>Research &amp; Innovations | Cleveland Clinic</title>
+
+<script>
+                var dataLayer = window.dataLayer = window.dataLayer || [];
+                dataLayer.push({
+                    'attributes': {
+                        'primaryLocationId': '',
+                'physicianId': '',
+                'instituteId': ''
+                    }
+                });
+            </script>
+
+
+<style>
+        .async-hide {
+            opacity: 0 !important
+        }
+    </style>
+<script>
+        (function (a, s, y, n, c, h, i, d, e) {
+            s.className += ' ' + y; h.start = 1 * new Date;
+            h.end = i = function () { s.className = s.className.replace(RegExp(' ?' + y), '') };
+            (a[n] = a[n] || []).hide = h; setTimeout(function () { i(); h.end = null }, c); h.timeout = c;
+        })(window, document.documentElement, 'async-hide', 'dataLayer', 4000,
+            { 'GTM-TX83RBN': true });</script>
+<script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.defer = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-718476-2', 'auto', { allowLinker: true });
+        ga('require', 'GTM-TX83RBN');</script>
+
+<script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+    	    new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.defer = true; j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-3M4W');</script>
+
+<meta name="description" content="Cleveland Clinic research focuses on many of conditions. Learn how Cleveland Clinic pursues the mission to unlock basic science through clinical research." />
+<meta property="og:title" />
+<meta property="og:description" content="Cleveland Clinic focuses cutting-edge research on the characterization, diagnosis, and treatment of a broad spectrum of diseases and conditions. Learn how Cleveland Clinic caregivers pursue the guiding principle of ‘Patients First’ by improving patient care through research." />
+<meta property="og:image" content="https://my.clevelandclinic.org/-/scassets/images/org/social/cc-fb.jpg" />
+<meta property="twitter:card" content="summary" />
+<link rel="canonical" href="https://my.clevelandclinic.org/research" />
+<meta property="og:url" content="https://my.clevelandclinic.org/research" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Cleveland Clinic" />
+<meta property="twitter:site" content="&#64;ClevelandClinic" />
+<meta property="twitter:creator" content="&#64;ClevelandClinic" />
+<link rel="apple-touch-icon" href="/assets/imgs/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/imgs/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/imgs/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/assets/imgs/touch-icon-ipad-retina.png">
+<link rel='icon' href="/assets/imgs/touch-icon-iphone.png" sizes="256x256" type="image/png" />
+<link rel="alternate" href="https://my.clevelandclinic.org:443/research" hreflang="en" />
+<link rel="alternate" href="https://my.clevelandclinic.org:443/research" hreflang="x-default" />
+</head>
+<body class="health">
+
+<noscript>
+        <iframe sandbox security="restricted" src="//www.googletagmanager.com/ns.html?id=GTM-3M4W"
+                height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+
+
+<noscript><img height="1" width="1" src="//zdbb.net/l/Dnl1wmWs8xCCpvWNCt9Egf/" alt="" /></noscript>
+<section class="notification-banner js-notification-banner">
+<header class="notification-banner__header">
+<span class="notification-banner__icon">
+<img src="/-/scassets/images/org/icons/icon-alert-white.svg?la=en&amp;hash=E077069A0F8A48CD9E0F5B192868DF9924718193" alt="alert icon" />
+</span>
+<span class="notification-banner__title">
+COVID-19 INFO
+</span>
+<div class="notification-banner__action">
+<button class="notification-banner__action-icon js-notification-banner__action-icon--minimize hide">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.26 24.74" aria-label="Minimize" focusable="false"><defs><style>.cls-1 {fill: #fff;}</style></defs><path class="cls-1" d="M48.26,20.47a4.12,4.12,0,0,1-1,2.7,4.29,4.29,0,0,1-6,.6l-17.2-14L7,23.77a4.26,4.26,0,1,1-5.4-6.6L21.36,1a4.23,4.23,0,0,1,5.4,0l19.9,16.2A4.36,4.36,0,0,1,48.26,20.47Z" transform="translate(0 0)" /></svg>
+</button>
+<button class="notification-banner__action-icon js-notification-banner__action-icon--maximize">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.27 24.7" aria-label="Maximize" focusable="false"><defs><style>.cls-1 {fill: #fff;}</style></defs><path class="cls-1" d="M1.82,6.71a4.25,4.25,0,0,1,6.94-3.3L26,17.4l17.14-14A4.26,4.26,0,1,1,48.52,10L28.69,26.19a4.26,4.26,0,0,1-5.38,0L3.39,10A4.23,4.23,0,0,1,1.82,6.71Z" transform="translate(-1.82 -2.46)" /></svg>
+</button>
+</div>
+</header>
+<main class="notification-banner__main js-notification-banner__main  hide">
+<p><strong>Coming to a Cleveland Clinic location?</strong><br><a href="/landing/preparing-for-coronavirus">Visitation, mask requirements and COVID-19 information</a></p>
+</main>
+</section>
+<header id="site-header" class="header js-site-header">
+<nav class="nav--utility js-nav--utility">
+<ul>
+<li>
+<a class="nav--utility__link nav--utility__link--phone" href="tel:800.223.2273">
+800.223.2273
+</a>
+</li>
+ <li>
+<a class="nav--utility__link " href="/about/history" DisableWebEdit="True">100 Years of Cleveland Clinic</a>
+</li>
+<li>
+<a class="nav--utility__link " title="MyChart" href="/online-services/mychart" DisableWebEdit="True">MyChart</a>
+</li>
+<li>
+<a class="nav--utility__link " title="Need help?" href="/help" DisableWebEdit="True">Need help?</a>
+</li>
+<li>
+<a class="nav--utility__link " href="/giving" DisableWebEdit="True">Giving</a>
+</li>
+<li>
+<a class="nav--utility__link " href="https://jobs.clevelandclinic.org/" DisableWebEdit="True" target="_blank">Careers</a>
+</li>
+<li>
+<a href="/search" aria-label="Search" aria-controls="search-box" class="button--small button--search" DisableWebEdit="True" aria-expanded="false">Search</a>
+</li>
+</ul>
+</nav>
+<span class="header__logo">
+<a href="/" DisableWebEdit="True"><img src="/-/scassets/images/org/logo/logo-ccf.svg?la=en&amp;hash=893F972A333B767C390189D35EB94DA843A6252A" alt="Cleveland Clinic logo" DisableWebEdit="True" /></a>
+</span>
+<div class="nav--primary__menu js-nav--primary__menu clearfix">
+<a class="nav--primary__menu_toggle js-nav--primary__menu_toggle" href="#" aria-label="menu">
+<div class="hamburger-primary js-hamburger-primary">
+<span class="hamburger-primary__line"></span>
+<span class="hamburger-primary__line"></span>
+<span class="hamburger-primary__line"></span>
+<span class="hamburger-primary__line"></span>
+</div>
+</a>
+<a href="/search" aria-label="Search" aria-controls="search-box" class="nav--primary__search_toggle button--search-dark-gray" aria-expanded="false">Search</a>
+<div class="underlay js-underlay"></div>
+<div class="nav--primary__wrapper js-nav--primary__wrapper">
+<div class="nav--primary__wrapper-inner">
+<div class="triangle-up"></div>
+<div class="nav--primary__header">
+Cleveland Clinic Menu
+</div>
+<nav>
+<ul class="nav--primary ">
+<li class="nav--primary__link">
+<a class="nav--primary__link" href="/" DisableWebEdit="True">ClevelandClinic.org</a>
+</li>
+<li class="nav--primary__link  ">
+<a class="nav--primary__link " href="/staff" DisableWebEdit="True">Find a Doctor</a>
+</li>
+<li class="nav--primary__link  ">
+<a class="nav--primary__link " href="/locations" DisableWebEdit="True">Locations & Directions</a>
+</li>
+<li class="nav--primary__link  ">
+<a class="nav--primary__link " href="/patients" DisableWebEdit="True">Patients & Visitors</a>
+</li>
+<li class="nav--primary__link  ">
+<a class="nav--primary__link " href="/health" DisableWebEdit="True">Health Library</a>
+</li>
+<li class="nav--primary__link  ">
+<a class="nav--primary__link " href="/departments" DisableWebEdit="True">Institutes & Departments</a>
+</li>
+<li class="nav--primary__link  ">
+<a class="nav--primary__link " href="/patients/information/access" DisableWebEdit="True">Appointments & Access</a>
+</li>
+</ul>
+</nav>
+<div class="nav--primary__buttons clearfix">
+<a class="button--small " title="MyChart" href="/online-services/mychart" DisableWebEdit="True">MyChart</a><a class="button--small " title="Need help?" href="/help" DisableWebEdit="True">Need help?</a> </div>
+</div>
+<div class="nav--primary__extra shade">
+Call for Additional Assistance
+<a href="tel:800.223.2273">800.223.2273</a>
+</div>
+</div>
+</div>
+<nav class="nav--secondary js-nav--secondary">
+<ul>
+<li class="nav--secondary__link--primary"><a class="nav--secondary__link" href="/" DisableWebEdit="True">ClevelandClinic.org</a></li>
+<li>
+<a class="nav--secondary__link " href="/staff" DisableWebEdit="True">Find a Doctor</a>
+</li>
+<li>
+<a class="nav--secondary__link " href="/locations" DisableWebEdit="True">Locations & Directions</a>
+</li>
+<li>
+<a class="nav--secondary__link " href="/patients" DisableWebEdit="True">Patients & Visitors</a>
+</li>
+<li>
+<a class="nav--secondary__link " href="/health" DisableWebEdit="True">Health Library</a>
+</li>
+<li>
+<a class="nav--secondary__link " href="/departments" DisableWebEdit="True">Institutes & Departments</a>
+</li>
+<li>
+<a class="nav--secondary__link " href="/patients/information/access" DisableWebEdit="True">Appointments & Access</a>
+</li>
+</ul>
+</nav>
+</header>
+<div class="page-content">
+<style>
+            .hero-panel .hero-panel__image {
+                background-image: url(/-/scassets/images/org/research/research-hero-mobile.jpg);
+            }
+            @media (min-width: 600px) {
+                .hero-panel .hero-panel__image {
+                    background-image: url(/-/scassets/images/org/research/research-hero-small.jpg);
+                }
+            }
+        </style>
+<section class="hero-panel hero--hasDesktopImage hero--hasMobileImage">
+<div class="hero-panel_image-wrapper">
+<div class="hero-panel__image  "></div>
+</div>
+<div class="container">
+<div class="hero-panel__text hero-panel__text--bottom">
+<h1 class="hero-panel__title">Research</h1>
+<div class="hero-panel__subtitle">Cleveland Clinic focuses cutting-edge research on the characterization, diagnosis, and treatment of a broad spectrum of diseases and conditions. Learn how Cleveland Clinic caregivers pursue the guiding principle of ‘Patients First’ by improving patient care through research.</div>
+</div>
+</div>
+</section>
+<section class="highlight-panel">
+<div id="df0c7a47-219b-41ec-bc6c-551e76d5d3ce" class="container">
+<div class="highlight-panel__media l-2col--1">
+<img src="/-/scassets/images/org/research/research-pop-panel.jpg" alt="Otto Glasser, MD, invented a way of accurately measuring the radiation doses being given to patients during what was then called Roentgen ray therapy (radiotherapy for cancer). The groundbreaking device was called a dosimeter." class="highlight-panel__image" />
+</div>
+<div class="highlight-panel__content l-2col--2">
+<h2 class="title">The Future of Healthcare and Research Since 1921</h2>
+<div class="highlight-panel__rtc"><p>Since its <a href="/about/history">founding in 1921</a>, research has been an integral part of Cleveland Clinic&rsquo;s mission. The founders believed it was not only important to treat patients, but also to investigate the causes of disease. A century later, Cleveland Clinic is at the forefront of scientific discovery. Our researchers are leaders in growing fields transforming the way medicine is delivered, including precision medicine, genomics, population health and immuno-oncology. </p>
+<p>Lab-based and translational researchers work to uncover novel biological pathways that contribute to a host of diseases, including cancer, cardiovascular and metabolic diseases, brain and eye diseases, and diseases of the inflammation and immune systems. They work closely with clinical researchers from all areas of Cleveland Clinic to translate basic biological research discoveries into new diagnostic tests and treatments&mdash;including medical devices and therapeutics&mdash;that will benefit patients worldwide.</p>
+<p><em>Pictured: One of the first instances of ground-breaking research at Cleveland Clinic beginning during the 1920's. Otto Glasser, MD, invented a way of accurately measuring the radiation doses being given to patients during what was then called Roentgen ray therapy (radiotherapy for cancer). The groundbreaking device was called a dosimeter.</em></p></div>
+</div>
+</div>
+</section>
+<section class="highlight-panel bg-gray">
+<div id="b618969d-5c92-4b05-81df-4cba5d87dc79" class="container">
+<div class="highlight-panel__media l-2col--1 push">
+<img src="/-/scassets/images/org/research/ohio-innovations-panel.jpg" alt="Dr. Jung discusses research with colleague" class="highlight-panel__image" />
+</div>
+<div class="highlight-panel__content l-2col--2 pull">
+<h2 class="title">Ohio Invests in Our Future</h2>
+<div class="highlight-panel__rtc"><p>In partnership with the State of Ohio and <a href="https://www.jobsohio.com/" target="_blank">JobsOhio</a>, Cleveland Clinic has launched the <a href="https://www.lerner.ccf.org/pathogen-research/" target="_blank">Global Center for Pathogen Research &amp; Human Health</a> to study present and future pandemic threats and to develop novel diagnostic tests, vaccines and treatments. The $500M center ($200M from Ohio, $300M from Cleveland Clinic) will expand upon Cleveland Clinic&rsquo;s existing programs and expertise in immunological research, with newly recruited world leaders in immunology and pathogen research as well as technology development and education.</p>
+<p>The center is part of Ohio&rsquo;s $1B investment in Northeast Ohio to create the Cleveland Innovation District &mdash; a biomedical hub that will drive economic growth and lead to improved health for Ohioans and patients around the globe. As part of the Innovation District, Cleveland Clinic will join Case Western Reserve University, Cleveland State University, MetroHealth, and University Hospitals. In addition to a focus on research and development, the center is expected to generate 8,500 jobs in Ohio.</p></div>
+<div class="highlight-panel__links">
+<a href="https://newsroom.clevelandclinic.org/2021/01/25/through-a-500-million-partnership-with-the-state-of-ohio-jobsohio-and-ohio-development-services-agency-cleveland-clinic-forms-global-center-for-pathogen-research-human-health/" class="btn-rd btn-rd--primary" target="_blank">Read the Announcement</a>
+<a href="https://www.lerner.ccf.org/pathogen-research/" class="btn-rd btn-rd--secondary" target="_blank">Learn More About Our Research</a> </div>
+</div>
+</div>
+</section>
+<section class="call-to-action call-to-action-small theme-white teaser-panel">
+<a class="accordion-section-title js-accordion-section-title js-pre-open" href="#6BFD7E41-D061-47EF-BA12-D88CF386688A">Cleveland Clinic Research Centers &amp; Institutes</a>
+<div id="6BFD7E41-D061-47EF-BA12-D88CF386688A" class="container content-pad accordion-content js-accordion-content">
+<h2 class="section__heading lede section__heading--centered">
+Cleveland Clinic Research Centers &amp; Institutes </h2>
+<div class="panel-row">
+<div class="  l-4col--1">
+<a href="https://www.lerner.ccf.org/" target="_blank">
+<div class="call-to-action__image">
+<img src="/-/scassets/images/org/research/lerner-research-teaser.jpg?h=242&amp;la=en&amp;w=430&amp;hash=C5ABF9EF69669F695F54CD070DA3357172306328" alt="Cleveland Clinic Lerner Research Institute Logo" width="430" height="242" />
+</div>
+<h3 class="call-to-action__title lede ">
+Lerner Research Institute
+</h3>
+</a>
+<div class="call-to-action__text ">
+<p>
+Home to all laboratory-based, translational and clinical research at Cleveland Clinic. Our mission is to understand the underlying causes of human diseases and to develop new treatments and cures. </p>
+</div>
+<a href="https://www.lerner.ccf.org/" class="bold-link" target="_blank">Visit Lerner Research Institute</a> </div>
+<div class="  l-4col--2">
+<a href="/departments/biorepository">
+<div class="call-to-action__image">
+<img src="/-/scassets/images/org/biobank/biorepository-rendering.jpg?h=338&amp;la=en&amp;w=600&amp;hash=4BA07900B7A207F961797F65EB4FDD52F0A69056" alt="Cleveland Clinic&#39;s BioRepository" width="600" height="338" />
+</div>
+<h3 class="call-to-action__title lede ">
+CC-BioR
+</h3>
+</a>
+<div class="call-to-action__text ">
+ <p>
+Cleveland Clinic’s BioRepository collects and stores biological samples and associated health information to be used for medical research. </p>
+</div>
+<a href="/departments/biorepository" class="bold-link">Visit BioRepository</a> </div>
+<div class="  l-4col--3">
+<a href="/research/computational-life-sciences">
+<div class="call-to-action__image">
+<img src="/-/scassets/images/org/research/computational-life-sciences/ccls-teaser-panel.jpg?h=242&amp;la=en&amp;w=430&amp;hash=D390265946F81842A74CA29794FAA6710CFCD829" alt="IBM Quantum System One" width="430" height="242" />
+</div>
+<h3 class="call-to-action__title lede ">
+Center for Computational Life Sciences
+</h3>
+</a>
+<div class="call-to-action__text ">
+<p>
+Using the collective data of millions, Cleveland Clinic&#39;s Center for Computational Life Sciences is developing better care for individuals using state-of-the-art resources and facilities. </p>
+</div>
+<a href="/research/computational-life-sciences" class="bold-link"> <span class="call-to-action__small">Visit Computational Life Sciences</span>
+<span class="call-to-action__large">Visit Computational Life Sciences</span>
+</a> </div>
+<div class="  l-4col--4">
+<a href="/research/c5research">
+<div class="call-to-action__image">
+<img src="/-/scassets/images/org/research/c5research-teaser.jpg?h=242&amp;la=en&amp;w=430&amp;hash=6A62094424215AFDFE5243E4DA6B1AEDFFF76A3C" alt="Cleveland Clinic Coordinating Center for Clinical Research Logo" width="430" height="242" />
+</div>
+<h3 class="call-to-action__title lede ">
+C5Research
+</h3>
+</a>
+<div class="call-to-action__text ">
+<p>
+Cleveland Clinic Coordinating Center for Clinical Research is Cleveland Clinic&#39;s academic coordinating center providing an academic focus to the design, planning and management of clinical trials. </p>
+</div>
+<a href="/research/c5research" class="bold-link">Visit C5Research</a> </div>
+</div>
+<div class="panel-row">
+<div class="  l-4col--1">
+<a href="/research/neurological">
+<div class="call-to-action__image">
+<img src="/-/scassets/images/org/research/ni-research-teaser.jpg?h=242&amp;la=en&amp;w=430&amp;hash=1845F904919652B6CD84087BCCF6BD945D175DB1" alt="Cleveland Clinic Neurological Institute Logo" width="430" height="242" />
+</div>
+<h3 class="call-to-action__title lede ">
+Neurological Institute Research Programs
+</h3>
+</a>
+<div class="call-to-action__text ">
+<p>
+Conducting innovative and collaborative clinical research to understand neurological disease and to translate research results into best practices in the care of patients with cognitive, motor, or behavioral challenges. </p>
+</div>
+<a href="/research/neurological" class="bold-link">View Neurological Research Programs</a> </div>
+</div>
+</div>
+</section>
+<section class="highlight-panel bg-gray">
+<div id="23f470c6-2522-4fad-a641-5eb14603e70c" class="container">
+<div class="highlight-panel__media l-2col--1">
+<img src="/-/scassets/images/org/research/nursing-research.png" alt="nursing research illustration" class="highlight-panel__image" />
+</div>
+<div class="highlight-panel__content l-2col--2">
+<h2 class="title">Interested in Nursing Research?</h2>
+<p class="subtitle">Cleveland Clinic's Office of Nursing Research and Innovation can help</p>
+<div class="highlight-panel__rtc"><p>The Office of Nursing Research and Innovation encourages any nurse who has a research question, an idea for a research study, or an innovative process, system or device to come forward and pursue their ideas. Oftentimes, the most important ideas for research are those generated by clinicians who provide direct patient care.</p>
+<p>Benefits of Nursing Research:</p>
+<ul>
+<li>Brings improvements to nursing practice.</li>
+<li>Provides best practices for nurses and patients.</li>
+<li>Enhances patient advocacy.</li>
+<li>Advances the foundation of nursing science so it can be used by other nurses.</li>
+</ul>
+<p>Discover the power you have to transform nursing practice. Learn more about our nursing research and innovation programs today!</p></div>
+<div class="highlight-panel__links">
+<a href="/departments/nursing/about/specialties/nursing-research" class="btn-rd btn-rd--primary">Visit Office of Nursing Research &amp; Innovation</a>
+<a href="https://consultqd.clevelandclinic.org/nursing-research-infographic/" class="btn-rd btn-rd--secondary" target="_blank">Why Nursing Research Is Important</a> </div>
+</div>
+</div>
+</section>
+<section class="call-to-action-center call-to-action-center--image theme-blue-gray-pattern" style="background-image: url(&#39;/-/scassets/images/org/research/power-of-ribbon.jpg&#39;);">
+<a class="accordion-section-title js-accordion-section-title js-pre-open" href="#1b1b1016-3a0f-42b1-94b0-94fcebfb4ea5">Want To Support Ground-Breaking Research at Cleveland Clinic?</a>
+<div class="container content-pad accordion-content js-accordion-content" id="1b1b1016-3a0f-42b1-94b0-94fcebfb4ea5">
+<div class="l-1col">
+<h2 class="call-to-action-center__heading lede">Want To Support Ground-Breaking Research at Cleveland Clinic?</h2> </div>
+<div class="l-1col call-to-action-center__content">
+<h4 class="call-to-action-center__subheading">Discover how you can help Cleveland Clinic save lives and continue to lead the transformation of healthcare.</h4> <a href="/giving" class="button--secondary button--arrow">Give to Cleveland Clinic</a> </div>
+</div>
+</section>
+<section class="teaser-list teaser-list--news" id="news-section5aadd8d1b6e242da97fc850bd74698f0">
+<div class="js-ad__leaderboard ad__leaderboard">
+<div class="container">
+<div class="ad__wrapper">
+<div id="leaderboard2_728x90" class="ad-type--leaderboard ad-context--all">
+</div>
+</div>
+</div>
+</div>
+<div class="container content-pad" id="news-content5aadd8d1b6e242da97fc850bd74698f0">
+<h2 class="section__heading lede">
+Cleveland Clinic
+<span class="highlight">News & More</span>
+</h2>
+<div id="loading-spinner" class="spinner--pad">
+<img class="js-lazy" loading="lazy" data-src="/assets/imgs/cc_bug_ani.gif" alt="Loading..." />
+</div>
+<div class="teaser-list__load-more js-teaser-list__load-more" id="news-list5aadd8d1b6e242da97fc850bd74698f0"></div>
+<div class="l-1col center js-teaser__button" id="button5aadd8d1b6e242da97fc850bd74698f0">
+<a class="button--small load-more js-load-more button--arrow-down" href="#">Show More</a>
+</div>
+</div>
+</section>
+</div>
+<section class="contact-box-ribbon js-contact-box-ribbon theme-blue-gray-pattern">
+<div class="container content-pad">
+<ul class="contact-box" id="appointment-expander">
+<li class="contact-box__phone">Call Appointment Center 24/7 <a href="tel:866.320.4573">866.320.4573</a></li>
+<li class="contact-box__phone">Questions <a href="tel:216.444.2200">216.444.2200</a></li>
+<li><a href="/web-appointments" class="button--strong button--full button--arrow">Request an Appointment</a></li>
+</ul>
+</div>
+</section>
+<section class="footer-social js-footer-social">
+<div class="container">
+<a href="https://www.facebook.com/ClevelandClinic" DisableWebEdit="True" class="footer-social__link" target="_blank"> <i class="icon-social-facebook" role="img" aria-label="Facebook Icon"></i> <span class="element-invisible">Facebook</span>
+</a>
+<a href="https://twitter.com/clevelandclinic" DisableWebEdit="True" class="footer-social__link" target="_blank"> <i class="icon-social-twitter" role="img" aria-label="Twitter Icon"></i> <span class="element-invisible">Twitter</span>
+</a>
+<a href="https://www.youtube.com/user/clevelandclinic" DisableWebEdit="True" class="footer-social__link" target="_blank"> <i class="icon-social-youtube" role="img" aria-label="YouTube Icon"></i> <span class="element-invisible">YouTube</span>
+</a>
+<a href="https://www.instagram.com/clevelandclinic/" DisableWebEdit="True" class="footer-social__link" target="_blank"> <i class="icon-social-instagram" role="img" aria-label="Instagram Icon"></i> <span class="element-invisible">Instagram</span>
+</a>
+<a href="https://www.linkedin.com/company/cleveland-clinic" DisableWebEdit="True" class="footer-social__link" target="_blank"> <i class="icon-social-linkedin" role="img" aria-label="LinkedIn Icon"></i> <span class="element-invisible">LinkedIn</span>
+</a>
+<a href="https://www.pinterest.com/clevelandclinic/" DisableWebEdit="True" class="footer-social__link" target="_blank"> <i class="icon-social-pinterest" role="img" aria-label="Pinterest Icon"></i> <span class="element-invisible">Pinterest</span>
+</a>
+<a href="https://www.snapchat.com/add/clevelandclinic" DisableWebEdit="True" class="footer-social__link" target="_blank"> <i class="icon-social-snapchat" role="img" aria-label="Snapchat Icon"></i> <span class="element-invisible">Snapchat</span>
+</a> </div>
+</section>
+<footer class="footer js-footer">
+<div class="container content-pad">
+<div class="footer__item l-4col--1">
+<h5 class="footer__title lede">Actions</h5>
+<nav class="footer__nav">
+<a title="Appointments" href="/patients/information/access" DisableWebEdit="True">Appointments & Access</a><a title="Accepted Insurance" href="/patients/accepted-insurance" DisableWebEdit="True">Accepted Insurance</a><a href="https://events.clevelandclinic.org" DisableWebEdit="True" target="_blank">Events Calendar</a><a href="/patients/billing-finance/financial-assistance" DisableWebEdit="True">Financial Assistance</a><a href="/giving" DisableWebEdit="True">Give to Cleveland Clinic</a><a title="Pay Your Bill" href="/patients/billing-finance/payment-options" DisableWebEdit="True">Pay Your Bill Online</a><a href="/professionals/referring" DisableWebEdit="True">Refer a Patient</a><a title="Phone Directory" href="/about/contact/phone-directory" DisableWebEdit="True">Phone Directory</a><a href="/online-services/virtual-second-opinions" DisableWebEdit="True">Virtual Second Opinions</a><a href="/online-services/virtual-visits" DisableWebEdit="True">Virtual Visits</a> </nav>
+</div>
+<div class="footer__item l-4col--2">
+<h5 class="footer__title lede">Blog, News &amp; Apps</h5>
+<nav class="footer__nav">
+<a title="Consult QD" href="https://consultqd.clevelandclinic.org" DisableWebEdit="True" target="_blank">Consult QD</a><a title="Health Essentials" href="https://health.clevelandclinic.org" DisableWebEdit="True" target="_blank">Health Essentials</a><a title="Newsroom" href="https://newsroom.clevelandclinic.org" DisableWebEdit="True" target="_blank">Newsroom</a><a href="/mobile-apps/myclevelandclinic" DisableWebEdit="True">MyClevelandClinic</a><a href="/online-services/mychart" DisableWebEdit="True">MyChart</a> </nav>
+</div>
+<div class="footer__item l-4col--3">
+<h5 class="footer__title lede">About Cleveland Clinic</h5>
+<nav class="footer__nav">
+<a href="/about/history" DisableWebEdit="True">100 Years of Cleveland Clinic</a><a href="/about" DisableWebEdit="True">About Us</a><a href="/locations" DisableWebEdit="True">Locations</a><a href="/departments/patient-experience/depts/quality-patient-safety" DisableWebEdit="True">Quality & Patient Safety</a><a href="/about/community/diversity" DisableWebEdit="True">Office of Diversity & Inclusion</a><a href="/departments/patient-experience/depts/office-patient-experience" DisableWebEdit="True">Patient Experience</a><a href="/research" DisableWebEdit="True">Research & Innovations</a><a href="/about/community" DisableWebEdit="True">Community Commitment</a><a title="Careers" href="https://jobs.clevelandclinic.org/" DisableWebEdit="True" target="_blank">Careers</a><a href="/about/for-employees" DisableWebEdit="True">For Employees</a><a href="/professionals" DisableWebEdit="True">Resources for Medical Professionals</a> </nav>
+</div>
+<div class="footer__item l-4col--4">
+<h5 class="footer__title lede">Site Information &amp; Policies</h5>
+<nav class="footer__nav">
+<a title="Send Us Feedback" href="https://my.clevelandclinic.org/webcontact/webmail" DisableWebEdit="True">Send Us Feedback</a><a href="/about/website/site-map" DisableWebEdit="True">Site Map</a><a href="/about/website" DisableWebEdit="True">About this Website</a><a href="/about/website/reprints-licensing" DisableWebEdit="True">Copyright, Reprint & Licensing</a><a href="/about/website/terms-of-use" DisableWebEdit="True">Website Terms of Use</a><a href="/about/website/privacy-security" DisableWebEdit="True">Privacy Policy</a><a href="/about/website/privacy-practices" DisableWebEdit="True">Notice of Privacy Practices</a><a href="/about/website/non-discrimination-notice" DisableWebEdit="True">Non-Discrimination Notice</a> </nav>
+</div>
+</div>
+<div class="container">
+<div class="l-1col">
+<div class="footer__text" dir="ltr">
+9500 Euclid Avenue, Cleveland, Ohio 44195 | <a href="tel:800.223.2273">800.223.2273</a> | &copy; 2022 Cleveland Clinic. All Rights Reserved.
+</div>
+</div>
+</div>
+</footer>
+<a href="#" class="back-to-top js-back-to-top"><img src="/assets/imgs/back-to-top-button.svg" alt="Back to Top"></a>
+<script type="text/javascript">
+                var MEDICAL_PERSONNEL_INDEX_NAME_DEFAULT = 'medical_personnel_prod';
+                var HEALTH_INDEX_NAME_DEFAULT = 'hic_prod';
+                var LOCATIONS_INDEX_NAME_DEFAULT = 'locations_prod';
+        </script>
+<div id="d89JF2Fa-exV-5ixaiTVui1y_gqYcnxAVAB0ZZvIj8rs"></div>
+<script src="https://mktdplp102cdn.azureedge.net/public/latest/js/ws-tracking.js?v=1.78.2008.0"></script><div id="ccf-lcwidget-chat" class="d365-mkt-config" style="display:none" data-website-id="89JF2Fa-exV-5ixaiTVui1y_gqYcnxAVAB0ZZvIj8rs" data-hostname="ca264331a46e4359af48029ef070df94.svc.dynamics.com" data-app-id="24d50ba7-292e-432a-a2dc-5301efa26059" data-org-id="ae29c25f-ef18-4541-9c21-4ce5c6c1c633" data-org-url="https://orga370c35a-crm.omnichannelengagementhub.com"></div>
+<script id="js-jquery" src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+<script>
+                var notificationBannerCookieName = "notification_bannerEDA52E02D79C6730CBBBC1484D1F9F00";
+            </script>
+<script type="text/template" id="news-template5aadd8d1b6e242da97fc850bd74698f0">
+                {{#posts}}
+                <div class="teaser__item js-teaser__item l-4col">
+                    <article class="teaser teaser--news teaser--image">
+                        <a href="{{&link}}" class="teaser__image-link">
+                            <div class="teaser__image-container">
+                                {{#mediumImage}}
+                                <img class="teaser__image" alt="{{&title}}" src="{{&mediumImage}}">
+                                {{/mediumImage}}
+                                {{^mediumImage}}
+                                <img class="teaser__image" alt="{{&title}}" src="/assets/imgs/wordpress-placeholder.jpg">
+                                {{/mediumImage}}
+                            </div>
+                        </a>
+                        <h5 class="teaser__title">
+                            <a href="{{&link}}">{{&title}}</a>
+                        </h5>
+                    </article>
+                </div>
+                {{/posts}}
+            </script>
+<script src="/assets/scripts/ccwpbundle/dist/ccwpbundle.js"></script>
+<script>
+                    var configuration = {
+                    target: '5aadd8d1b6e242da97fc850bd74698f0',
+                        skipNewsroom: true,
+                        skipConsultQd: false,
+                        skipHealthEssentials: true,
+                        newsroomCategories: '',
+                        consultQdCategories: '',
+                        tags: "",
+                        providers:[],
+                        instDepts:[291],
+                        healthEssentialsCategories: [''],
+                        apis: {
+                        healthEssentials: 'https://health.clevelandclinic.org',
+                            consultQD: 'https://consultqd.clevelandclinic.org',
+                            newsroom: 'https://newsroom.clevelandclinic.org'
+                        }
+                    };
+
+                         configuration.testTemplate = document.getElementById("news-template5aadd8d1b6e242da97fc850bd74698f0").innerHTML;
+
+                $(document).ready(function() {
+                    window.newsPanelController(configuration);
+                });
+            </script>
+<script src="/assets/scripts/dist/page-scripts.js"></script>
+<script src="/Assets/scripts/dist/health-library-scripts.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"75a156a14a417fed","token":"a5dd86740842424582cb4c460172d4c9","version":"2022.8.1","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
